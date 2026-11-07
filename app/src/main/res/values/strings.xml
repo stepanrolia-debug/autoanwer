@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoAnswer</string>
+    <string name="service_desc">Читает вопросы на экране и нажимает правильный ответ</string>
+</resources>
